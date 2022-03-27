@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f49a0f7f-30ec-5513-00d8-4a6d75c46f45
 resourcetype: Document
 title: Time Inconsistency and the Inflation Bias
 uid: cb254568-6ae2-d4ec-5b5f-c7c3963f7ed9

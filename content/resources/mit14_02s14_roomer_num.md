@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f49a0f7f-30ec-5513-00d8-4a6d75c46f45
 resourcetype: Document
 title: Explaining C. Romer Numbers
 uid: 57c0b245-8382-ffb1-2f9d-91377d741c21

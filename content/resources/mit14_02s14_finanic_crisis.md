@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f49a0f7f-30ec-5513-00d8-4a6d75c46f45
 resourcetype: Document
 title: Financial Crisis and Our Models
 uid: 97c27160-ea3b-28a7-8ce0-70b729ab10b0

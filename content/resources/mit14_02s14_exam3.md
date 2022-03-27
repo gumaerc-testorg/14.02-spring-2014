@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: f5eae93e-1999-1f0e-21da-9798877b93d9
 resourcetype: Document
 title: 14.02 Spring 2014 Exam 3
 uid: d0494be2-30ae-9ab6-b95d-eccc9e1a70c1

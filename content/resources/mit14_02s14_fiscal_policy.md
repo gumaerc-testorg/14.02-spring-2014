@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f49a0f7f-30ec-5513-00d8-4a6d75c46f45
 resourcetype: Document
 title: Fiscal Policy
 uid: 46455cea-2926-4e6b-b656-8478fcd83080

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f49a0f7f-30ec-5513-00d8-4a6d75c46f45
 resourcetype: Document
 title: U.S. Trade Balance and Current Account in 2009
 uid: 473c7cf7-71bd-9aca-dadd-cbdb650ff36e

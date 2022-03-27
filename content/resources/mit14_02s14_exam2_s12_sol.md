@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: f5eae93e-1999-1f0e-21da-9798877b93d9
 resourcetype: Document
 title: 14.02 Spring 2012 Exam 2 Solutions
 uid: d2a74845-f210-7a88-26c9-841dd0df4abc

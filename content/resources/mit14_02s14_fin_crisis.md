@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f49a0f7f-30ec-5513-00d8-4a6d75c46f45
 resourcetype: Document
 title: 'The Crisis: Where Are We?'
 uid: 4992f3ed-aa05-2c84-4f16-4e92a99a4d6e

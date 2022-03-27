@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 703a0acd-ee51-4349-1ec0-96ad63e444b8
 resourcetype: Document
 title: 14.02 Spring 2014 Problem Set 3
 uid: 26c30b3e-1fdd-96fa-9bf1-c2552fbd8201
