@@ -6,6 +6,7 @@ file: /courses/14-02-principles-of-macroeconomics-spring-2014/1f4e30aaf14387e320
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.02 Spring 2014 Exam 1 Solutions
 uid: 1f4e30aa-f143-87e3-20e6-c14fa4bcd976
 ---
 This file contains the information regarding 14.02 Spring 2014 Exam 1 Solutions.
-

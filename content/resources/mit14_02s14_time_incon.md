@@ -6,6 +6,7 @@ file: /courses/14-02-principles-of-macroeconomics-spring-2014/cb2545686ae2d4ec5b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Time Inconsistency and the Inflation Bias
 uid: cb254568-6ae2-d4ec-5b5f-c7c3963f7ed9
 ---
 This file contains the information regarding time inconsistency and the inflation bias.
-

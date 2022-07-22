@@ -5,6 +5,7 @@ file: /courses/14-02-principles-of-macroeconomics-spring-2014/2c7387a73074fc2c3b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.02 Spring 2014 Problem Set 4
 uid: 2c7387a7-3074-fc2c-3b65-ef279cd243a9
 ---
 This resource contains information regarding problem set 4.
-
