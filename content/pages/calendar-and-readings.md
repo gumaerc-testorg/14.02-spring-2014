@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, readings, and assignments.
+  Links to additional readings are also provided.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Calendar and Readings
 uid: a69a8e1f-3a07-ced4-98f5-128a49a3221e
 ---
 
-For the first seven lectures, the students used the professor's [lecture notes]({{< baseurl >}}/pages/lecture-notes#firstlectures) as their text. Please also see the [additional readings](#additional) below the table.  
+For the first seven lectures, the students used the professor's {{% resource_link f49a0f7f-30ec-5513-00d8-4a6d75c46f45 "lecture notes" "#firstlectures" %}} as their text. Please also see the [additional readings](#additional) below the table.  
 
 \[Macro\] = Blanchard, Olivier, and David R. Johnson. _Macroeconomics_. 6th ed. Pearson, 2012. ISBN: 9780133061635.
 
