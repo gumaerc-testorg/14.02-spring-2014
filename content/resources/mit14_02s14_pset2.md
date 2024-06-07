@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding problem set 2.
 file: /courses/14-02-principles-of-macroeconomics-spring-2014/3e2ca8cbf6d78ba846f583b8a70b0f05_MIT14_02S14_pset2.pdf
+file_size: 94950
 file_type: application/pdf
 learning_resource_types:
 - Assignments
