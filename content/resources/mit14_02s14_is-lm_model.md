@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding Introduction and the IS-LM
   Model.
 file: /courses/14-02-principles-of-macroeconomics-spring-2014/a92223550eebc4b50f8f9fdee905c7ed_MIT14_02S14_IS-LM_Model.pdf
+file_size: 323641
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
