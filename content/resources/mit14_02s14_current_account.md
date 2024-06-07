@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding U.S. trade
   balance and current account in 2009.
 file: /courses/14-02-principles-of-macroeconomics-spring-2014/473c7cf771bd9acadaddcbdb650ff36e_MIT14_02S14_current_account.pdf
+file_size: 147940
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
