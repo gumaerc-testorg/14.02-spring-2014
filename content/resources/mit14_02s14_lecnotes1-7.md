@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding notes for lecture sessions
   1-7.
-file: /courses/14-02-principles-of-macroeconomics-spring-2014/3169dc54158dc25bbbae06f536648842_MIT14_02S14_LecNotes1-7.pdf
+file: /ol-ocw-studio-app/courses/14-02-principles-of-macroeconomics-spring-2014/3169dc54158dc25bbbae06f536648842_MIT14_02S14_LecNotes1-7.pdf
 file_size: 1117343
 file_type: application/pdf
 learning_resource_types:
