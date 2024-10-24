@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding 14.02 Spring 2014 Exam 2.
-file: /courses/14-02-principles-of-macroeconomics-spring-2014/94e1ac382cd34020ec437ab6d33238e6_MIT14_02S14_Exam2.pdf
+file: /ol-ocw-studio-app/courses/14-02-principles-of-macroeconomics-spring-2014/94e1ac382cd34020ec437ab6d33238e6_MIT14_02S14_Exam2.pdf
 file_size: 725195
 file_type: application/pdf
 learning_resource_types:

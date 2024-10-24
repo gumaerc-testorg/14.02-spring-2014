@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 3 solution.
-file: /courses/14-02-principles-of-macroeconomics-spring-2014/49d9f3f305b3f3eac12fddfcf1049dd0_MIT14_02S14_pset3_sols.pdf
+file: /ol-ocw-studio-app/courses/14-02-principles-of-macroeconomics-spring-2014/49d9f3f305b3f3eac12fddfcf1049dd0_MIT14_02S14_pset3_sols.pdf
 file_size: 106556
 file_type: application/pdf
 learning_resource_types:
