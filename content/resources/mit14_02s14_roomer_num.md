@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding explaining C. romer numbers.
-file: /courses/14-02-principles-of-macroeconomics-spring-2014/57c0b2458382ffb12f9d91377d741c21_MIT14_02S14_Roomer_Num.pdf
+file: /ol-ocw-studio-app/courses/14-02-principles-of-macroeconomics-spring-2014/57c0b2458382ffb12f9d91377d741c21_MIT14_02S14_Roomer_Num.pdf
 file_size: 98535
 file_type: application/pdf
 learning_resource_types:
