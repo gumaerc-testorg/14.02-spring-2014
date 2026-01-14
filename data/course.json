@@ -44,9 +44,10 @@
     "website": "14-02-principles-of-macroeconomics-spring-2014"
   },
   "learning_resource_types": [
-    "Problem Sets with Solutions",
     "Exams with Solutions",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets",
+    "Problem Set Solutions"
   ],
   "site_uid": "483feb56-ffb1-484f-a342-eb4aa7f78f86",
   "site_short_id": "14.02-spring-2014",
